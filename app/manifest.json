@@ -1,0 +1,33 @@
+{
+	"background_color": "#FFFFFF",
+	"display": "standalone",
+	"icons": [
+		{
+			"density": 1.0,
+			"sizes": "48x48",
+			"src": "/favicon48.ico",
+			"type": "image/x-icon"
+		},
+		{
+			"density": 2.0,
+			"sizes": "96x96",
+            "src": "/favicon96.ico",
+			"type": "image/x-icon"
+		},
+		{
+			"density": 3.0,
+			"sizes": "144x144",
+            "src": "/favicon144.ico",
+			"type": "image/x-icon"
+		},
+		{
+			"density": 4.0,
+			"sizes": "192x192",
+            "src": "/favicon192.ico",
+			"type": "image/x-icon"
+		}
+	],
+	"name": "React Boilerplate",
+	"orientation": "portrait",
+	"start_url": "index.html"
+}

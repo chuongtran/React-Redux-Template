@@ -1,0 +1,3 @@
+export const QUERY_TEST = 'QUERY_TEST';
+export const QUERY_TEST_SUCCESS = 'QUERY_SUCCESS';
+export const QUERY_TEST_ERROR = 'QUERY_ERROR';
